@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------
 
-Ссылка на курс (course): https://practicum.yandex.ru/data-analyst/
+## Ссылка на курс (course): https://practicum.yandex.ru/data-analyst/
 
 -----------------------------------------------------------
 
@@ -11,13 +11,13 @@
 
 1. Final bank customers.ipynb
 
-Прогноз оттока клиентов банка
+## Прогноз оттока клиентов банка
 
 Используемые библиотеки (libraries): pandas, numpy, matplotlib, seaborn, scipy
 
 Задача: Проанализировала данные клиентов регионального банка; выделила портреты клиентов склонных и не склонных уходить в отток
 
-Prediction for the outflow of bank customers
+## Prediction for the outflow of bank customers
 
 Libraries: pandas, numpy, matplotlib, seaborn, scipy
 
@@ -27,7 +27,7 @@ Problem: Analyzed data of regional bank clients; identified portraits of custome
 
 2. Final A/B TEST.ipynb
 
-Анализ АB-теста
+## Анализ АB-теста
 
 Используемые библиотеки (libraries): pandas, numpy, math, matplotlib, plotly, seaborn, scipy
 
@@ -35,7 +35,7 @@ Problem: Analyzed data of regional bank clients; identified portraits of custome
 
 Задача: Оценила корректность проведения теста, оцнила результаты проведенного теста
 
-AB Test Analysis
+## AB Test Analysis
 
 Libraries: pandas, numpy, math, matplotlib, plotly, seaborn, scipy
 
@@ -47,13 +47,13 @@ Problem: Evaluated the correctness of the test, evaluated the results of the tes
 
 3. Final SQL books.ipynb
 
-SQL
+## SQL
 
 Используемые библиотеки: pandas, sqlalchemy
 
 Задача: Проанализировала данные по изданным книгам для книжного интернет-магазина
 
-SQL
+## SQL
 
 Libraries: pandas, sqlalchemy
 
