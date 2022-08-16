@@ -9,7 +9,7 @@
 
 Описание проектов / Description of projects:
 
-1. Final bank customers.ipynb
+# 1. Final bank customers.ipynb
 
 ## Прогноз оттока клиентов банка
 
@@ -25,7 +25,7 @@ Problem: Analyzed data of regional bank clients; identified portraits of custome
 
 -----------------------------------------------------------
 
-2. Final A/B TEST.ipynb
+# 2. Final A/B TEST.ipynb
 
 ## Анализ АB-теста
 
@@ -45,7 +45,7 @@ Problem: Evaluated the correctness of the test, evaluated the results of the tes
 
 -----------------------------------------------------------
 
-3. Final SQL books.ipynb
+# 3. Final SQL books.ipynb
 
 ## SQL
 
